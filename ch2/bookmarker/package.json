@@ -4,7 +4,7 @@
   "description": "An example Electron application",
   "main": "app/main.js",
   "scripts": {
-    "start": "electron ..",
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": "git@github.com:electron-in-action/bookmarker.git",
