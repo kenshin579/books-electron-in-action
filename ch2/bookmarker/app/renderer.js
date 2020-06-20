@@ -2,8 +2,6 @@ const {shell} = require('electron');
 
 const parser = new DOMParser();
 
-console.log('frank');
-
 const linksSection = document.querySelector('.links');
 const errorMessage = document.querySelector('.error-message');
 const newLinkForm = document.querySelector('.new-link-form');
